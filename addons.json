@@ -10,7 +10,8 @@
       "file": "MindTheGapps-15-arm64-XZ1C-signed.zip",
       "size": 189345396,
       "sha256": "868a8c93cdb44a23ea3bbd668b8d270942f07950934de90634cfa17555020fce",
-      "detect_package": "com.google.android.gms"
+      "detect_package": "com.google.android.gms",
+      "url": "https://github.com/yaleax/xz1c-addons/releases/download/addons-20261008/MindTheGapps-15-arm64-XZ1C-signed.zip"
     },
     {
       "id": "sony",
@@ -20,7 +21,8 @@
       "file": "XZ1C-SonyApps-20261005.zip",
       "size": 117006722,
       "sha256": "ed9d545e00ce58a528f7717f6e35182dc3a471adb0e3b1cf9c98cfc3aabe0054",
-      "detect_package": "com.sonyericsson.album"
+      "detect_package": "com.sonyericsson.album",
+      "url": "https://github.com/yaleax/xz1c-addons/releases/download/addons-20261008/XZ1C-SonyApps-20261005.zip"
     }
   ]
 }
