@@ -17,12 +17,12 @@
       "id": "sony",
       "name": "Sony services",
       "name_zh": "Sony 服務",
-      "version": "20261005",
-      "file": "XZ1C-SonyApps-20261005.zip",
-      "size": 117006722,
-      "sha256": "ed9d545e00ce58a528f7717f6e35182dc3a471adb0e3b1cf9c98cfc3aabe0054",
+      "version": "20261010",
+      "file": "XZ1C-SonyApps-20261010.zip",
+      "size": 117055148,
+      "sha256": "125306ae4b50658a62fcd1316220a5447525b5750975e42ec3cabe4504a7d4aa",
       "detect_package": "com.sonyericsson.album",
-      "url": "https://github.com/yaleax/xz1c-addons/releases/download/addons-20261008/XZ1C-SonyApps-20261005.zip"
+      "url": "https://github.com/yaleax/xz1c-addons/releases/download/addons-20261008/XZ1C-SonyApps-20261010.zip"
     }
   ]
 }
