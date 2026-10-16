@@ -33,6 +33,14 @@
       "size": 20903689,
       "sha256": "b717ff5582c707699e9f3cf67912523105426f8dc7182aa1270a9bc23f1c3418",
       "url": "https://github.com/yaleax/xz1c-addons/releases/download/uninstallers-1792072580/XZ1C-Addons-Uninstall-1792072580.zip"
+    },
+    "1792147505": {
+      "version": "1792147505",
+      "fingerprint": "Sony/lineage_lilac_dcm/lilac:15/BP1A.250505.005/1792147497:user/release-keys",
+      "file": "XZ1C-Addons-Uninstall-1792147505.zip",
+      "size": 20903689,
+      "sha256": "f5b1e50ff6b9ce735a9d27a46589c183a3865ecbee5887273f7b02c5761e39df",
+      "url": "https://github.com/yaleax/xz1c-addons/releases/download/uninstallers-1792147505/XZ1C-Addons-Uninstall-1792147505.zip"
     }
   }
 }
