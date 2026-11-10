@@ -23,6 +23,17 @@
       "sha256": "a12357509f50e6f331e938bf624fa0113db155144011b8bb046693282328b467",
       "detect_package": "com.sonyericsson.album",
       "url": "https://github.com/yaleax/xz1c-addons/releases/download/addons-20261008/XZ1C-SonyApps-20261012.zip"
+    },
+    {
+      "id": "compat",
+      "name": "Service compatibility",
+      "name_zh": "服务兼容性",
+      "version": "0.1.6-p2",
+      "file": "XZ1C-ServiceCompat-0.1.6-p2.zip",
+      "size": 77667785,
+      "sha256": "16accd5011d13a73f73bb7502ae872b3f47c3641e087015a9b705f108fab5efc",
+      "detect_package": "com.xz1c.compatibility",
+      "url": "https://github.com/yaleax/xz1c-addons/releases/download/addons-compat-0.1.6-p2/XZ1C-ServiceCompat-0.1.6-p2.zip"
     }
   ],
   "uninstallers": {
