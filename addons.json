@@ -30,13 +30,13 @@
       "id": "compat",
       "name": "Service compatibility",
       "name_zh": "服务兼容性",
-      "version": "0.1.6-p35",
-      "versionCode": 42,
-      "file": "XZ1C-ServiceCompat-0.1.6-p35.zip",
-      "size": 62101311,
-      "sha256": "00ae63870fc0fbc2e31ecfee587f1f4b75dc78ada654501b8dc9b524cefa58ad",
+      "version": "0.1.6-p36",
+      "versionCode": 43,
+      "file": "XZ1C-ServiceCompat-0.1.6-p36.zip",
+      "size": 62134079,
+      "sha256": "5837b646cd7b8c7731782ff0ba1f8f6e7e0ad80ef5b5f0156952e6b774c73938",
       "detect_package": "com.xz1c.compatibility",
-      "url": "https://github.com/yaleax/xz1c-addons/releases/download/addons-compat-0.1.6-p35/XZ1C-ServiceCompat-0.1.6-p35.zip"
+      "url": "https://github.com/yaleax/xz1c-addons/releases/download/addons-compat-0.1.6-p36/XZ1C-ServiceCompat-0.1.6-p36.zip"
     }
   ],
   "uninstallers": {
